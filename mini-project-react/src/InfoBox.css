@@ -1,0 +1,8 @@
+.cardContainer{
+display: flex;
+justify-content: center;
+color: blueviolet;
+}
+.infoBox{
+    text-align: center;
+}
